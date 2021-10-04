@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
+  <a href="https://discord.com/users/495901098926669825" >
+    <img src="https://lanyard-profile-readme.vercel.app/api/495901098926669825"  />
+  </a>
+</div>
+
 <!--
 **N0chteil/N0chteil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
