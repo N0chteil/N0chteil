@@ -6,6 +6,12 @@
   </a>
 </div>
 
+<h1>Stats</h1>
+<a href="https://github.com/N0chteil">
+    <img src="https://github-readme-stats.vercel.app/api?username=n0chteil&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&border_radius=8px" height="180em">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0chteil&langs_count=10&theme=dracula&border_radius=8px&layout=compact" height="180em">
+</a>
+
 <!--
 **N0chteil/N0chteil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
