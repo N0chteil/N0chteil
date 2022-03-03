@@ -6,11 +6,6 @@
   </a>
 </div>
 
-<h1>Stats</h1>
-<a href="https://github.com/N0chteil">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0chteil&langs_count=10&theme=dracula&layout=compact&hide_border=true" height="180em" width="400em">
-</a>
-
 <!--
 **N0chteil/N0chteil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
