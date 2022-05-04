@@ -1,6 +1,9 @@
 ### Hi there 👋
 
 <div align="center">
+
+  [![wakatime](https://wakatime.com/badge/user/20bb9331-55ef-4ede-a7dc-3286ee930904.svg)](https://wakatime.com/@20bb9331-55ef-4ede-a7dc-3286ee930904)
+
   <a href="https://discord.com/users/495901098926669825" >
     <img src="https://lanyard-profile-readme.vercel.app/api/495901098926669825"  />
   </a>
